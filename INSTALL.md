@@ -1,19 +1,13 @@
-### [Foobar](https://foobar.com)
+### [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 
-#### Install using Git
+#### Install using Microsoft Edge Store
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-```bash
-git clone https://github.com/dracula/foobar.git
-```
-
-#### Install manually
-
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
+1. Go to `theme install link here once uploaded`
+2. Click `Get Theme`
+3. The theme should apply automatically once downloaded.
 
 #### Activating theme
 
-1. Do this;
-2. Then that;
+1. Go to `edge://settings/appearance` in your browser.
+2. Select `Dracula Edge Theme`.
 3. Boom! It's working ✨
