@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Dracula Edge Theme",
   "description": "🧛🏻‍♂️ Dark theme for Microsoft Edge.",
   "theme": {
@@ -77,7 +77,8 @@
       ]
     },
     "images": {
-      "theme_toolbar": "img/theme_toolbar.png"
+      "theme_toolbar": "img/theme_toolbar.png",
+      "theme_tab_background": "img/theme_toolbar_transparent.png"
     }
   }
 }
