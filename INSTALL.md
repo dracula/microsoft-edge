@@ -1,13 +1,6 @@
 ### [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 
-#### Install using Microsoft Edge Store
-
-0. **Not Available Yet**
-1. Go to `theme install link here once uploaded`
-2. Click `Get Theme`
-3. The theme should apply automatically once downloaded.
-
-#### Install Manually (source/unpacked)
+#### Install from Source/unpacked
 
 1. Clone this repository or download it as a zip file.
 2. Go to `edge://extensions` in your browser.
