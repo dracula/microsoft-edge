@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/microsoft-edge](https://dracu
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/microsoft-edge/graphs/contributors).
 
-| [![ziroAU](https://github.com/ziroau.png?size=100)](https://github.com/ziroau)     |
+| [![hudsonm62](https://github.com/hudsonm62.png?size=100)](https://github.com/hudsonm62)     |
 | ---------------------------------------------------------------------------------- |
-| [ziroAU](https://github.com/ziroau)                                                |
+| [hudsonm62](https://github.com/hudsonm62)                                                |
 
 ## Community
 
