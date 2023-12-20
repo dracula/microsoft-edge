@@ -1,80 +1,24 @@
 {
   "manifest_version": 3,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "name": "Dracula Edge Theme",
   "description": "🧛🏻‍♂️ Dark theme for Microsoft Edge.",
   "theme": {
     "colors": {
-      "toolbar": [
-        68,
-        71,
-        90
-      ],
-      "frame": [
-        23,
-        24,
-        30
-      ],
-      "omnibox_text": [
-        248,
-        248,
-        242
-      ],
-      "omnibox_background": [
-        40,
-        42,
-        54
-      ],
-      "toolbar_button_icon": [
-        248,
-        248,
-        242
-      ],
-      "toolbar_text": [
-        248,
-        248,
-        242
-      ],
-      "tab_background_text": [
-        136,
-        147,
-        180
-      ],
-      "ntp_background": [
-        40,
-        42,
-        54
-      ],
-      "ntp_text": [
-        248,
-        248,
-        242
-      ],
-      "bookmark_text": [
-        248,
-        248,
-        242
-      ],
-      "tab_text": [
-        248,
-        248,
-        242
-      ],
-      "frame_inactive": [
-        98,
-        114,
-        164
-      ],
-      "background_tab_inactive": [
-        68,
-        71,
-        90
-      ],
-      "background_tab": [
-        40,
-        42,
-        54
-      ]
+      "toolbar": [68, 71, 90],
+      "frame": [23, 24, 30],
+      "omnibox_text": [248, 248, 242],
+      "omnibox_background": [40, 42, 54],
+      "toolbar_button_icon": [248, 248, 242],
+      "toolbar_text": [248, 248, 242],
+      "tab_background_text": [136, 147, 180],
+      "ntp_background": [40, 42, 54],
+      "ntp_text": [248, 248, 242],
+      "bookmark_text": [248, 248, 242],
+      "tab_text": [248, 248, 242],
+      "frame_inactive": [98, 114, 164],
+      "background_tab_inactive": [68, 71, 90],
+      "background_tab": [40, 42, 54]
     }
   }
 }
