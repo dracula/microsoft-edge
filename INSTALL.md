@@ -17,6 +17,6 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/microsoft
 1. Go to `edge://extensions` in your browser.
 2. Turn on `Developer mode` on the left menu.
 3. Click `Load unpacked` on the top right corner.
-4. Select the `src` folder of this repository.
+4. Select the `dist` folder of this repository.
 5. Activate the theme in `edge://settings/appearance`, if it wasn't activated automatically.
 6. Boom! It's working ✨
